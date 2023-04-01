@@ -6,7 +6,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/
-$ cd sample-django-app
+$ cd dcrm1
 ```
 
 Create a virtual environment to install dependencies in and activate it:
