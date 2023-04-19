@@ -1,11 +1,11 @@
-# Django CRM sample application
+# Django CRM
 
 ## Setup
 
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/
+$ git clone https://github.com/gochev06/dcrm1
 $ cd dcrm1
 ```
 
